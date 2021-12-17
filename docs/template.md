@@ -1,6 +1,6 @@
 --------------------------------------------------------------------------------
 
-- [ ] Branch up to date with main
-- [ ] Two reviewers
-- [ ] Validated test
-- [ ] Deployment Condition
+- [ ] Branch up to date with main: jjk
+- [ ] Two reviewers :
+- [ ] Validated test : nnn
+- [ ] Deployment Condition : blablaba
